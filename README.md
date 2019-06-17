@@ -1,5 +1,5 @@
 # crackme-challenge
- When executed it currently does this:
+This is a fun challenge to crack ELF binary, when executed it currently does this:
  
 `$ ./crackme procmon.exe
 You can't proceed.`
